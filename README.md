@@ -1,5 +1,5 @@
-# Event Subscriber 
-A simple spring boot application that is subscribed to a topic of Google Pub/Sub service. This application will log any messages since it is subscribed to a topic, be it any string messages, or json messages.
+# Event PubSub 
+A simple spring boot application to publish and subscribe any type of message.
 
 ## Technology Stack
 1. Spring-boot framework
