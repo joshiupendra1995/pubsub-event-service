@@ -3,7 +3,6 @@ A simple spring boot application that is subscribed to a topic of Google Pub/Sub
 
 ## Technology Stack
 1. Spring-boot framework
-2. Maven 3.6+
+2. Maven
 3. Google Cloud Pub/Sub
-4. Sonarqube
 
